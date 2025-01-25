@@ -56,7 +56,7 @@ st.sidebar.write("Select pages above or any options below from the list:")
 
 # Add hyperlinks to the sidebar
 st.sidebar.markdown("[Data Source](https://www.kaggle.com/datasets/origamik/united-airlines-call-center-sentiment-dataset)")
-st.sidebar.markdown("[GitHub Repo](https://github.com/sherifkhalil85)")
+st.sidebar.markdown("[GitHub Repo](https://github.com/sherifkhalil85/Airline_CC/tree/main)")
 st.sidebar.markdown("[Contact Me](https://www.linkedin.com/in/sherif-khalil-62b44823)")
 
 
