@@ -10,7 +10,7 @@ st.set_page_config(
 )
 ############################
 # Load data
-df = pd.read_csv('aggregated2.csv')
+df = pd.read_csv('data/aggregated2.csv')
 
 
 ##########################################
