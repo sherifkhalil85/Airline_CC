@@ -150,7 +150,7 @@ with col3:
 
 with col4: # Display the image
 
-    st.image(image_url,  use_column_width=True)
+    st.image(image_url,  use_container_width=True)
 
 #############################################
 ### create pages to explain and understand sentiment pattern
