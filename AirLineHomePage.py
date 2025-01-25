@@ -66,8 +66,6 @@ st.sidebar.markdown("[Contact Me](https://www.linkedin.com/in/sherif-khalil-62b4
 df = pd.read_csv('data/aggregated2.csv')
 
 
-
-
 # Initial calculations to create the summary and Metrics
 Talktime = df['talkTime'].mean()
 DailyDF = df.groupby('transaction_date').agg({'talkTime': 'mean', 'waitingTime': 'mean'}).reset_index()
@@ -298,4 +296,3 @@ with col3:
     st.image(image2, use_container_width =True)
     st.image(image3, use_container_width =True)
    
-
