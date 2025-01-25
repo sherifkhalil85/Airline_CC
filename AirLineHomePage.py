@@ -292,10 +292,10 @@ col1, col2, col3 = st.columns([10, 1, 10])
 
 # Display images in the appropriate columns
 with col1:
-    st.image(image1, use_column_width=True)
+    st.image(image1, use_container_width =True)
 
 with col3:
-    st.image(image2, use_column_width=True)
-    st.image(image3, use_column_width=True)
+    st.image(image2, use_container_width =True)
+    st.image(image3, use_container_width =True)
    
 
