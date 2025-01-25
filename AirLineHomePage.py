@@ -63,7 +63,7 @@ st.sidebar.markdown("[Contact Me](https://www.linkedin.com/in/sherif-khalil-62b4
 
 ####################################
 # Load data
-df = pd.read_csv('aggregated2.csv')
+df = pd.read_csv('data/aggregated2.csv')
 
 
 
