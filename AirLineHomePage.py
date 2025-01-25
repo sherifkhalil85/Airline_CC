@@ -156,7 +156,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<div class="title">CC Airline Analysis Overview</div>', unsafe_allow_html=True)
+st.markdown('<div class="title">CC Airline Analysis Overview✈️</div>', unsafe_allow_html=True)
 
 with st.expander('View Summary'):
 
